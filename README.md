@@ -85,6 +85,6 @@ Support & Licensing
 License Type: Perpetual (PRO) or Subscription (ENTERPRISE), cryptographically bound to your purchase email.
 Key Recovery: Lost your key? Visit [Your Website]/retrieve and enter your purchase email to instantly recover your license.
 
-
+Technical Support: For bugs, feature requests, or licensing questions, contact: quantenginepro@gmail.com
 © 2026 QuantEngine Pro. All rights reserved.
 Built for traders, by traders.
