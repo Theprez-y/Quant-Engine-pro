@@ -1,0 +1,12 @@
+name = "quantengine-licenses"
+main = "worker.js"
+compatibility_date = "2026-01-01"
+
+# KV namespace for storing licenses (for key recovery)
+[[kv_namespaces]]
+binding = "LICENSE_KV"
+id = "8fc1c03b17cf4857ba08f761cedb1945"  # You'll create this in Step 3
+
+[vars]
+# Public configuration
+APP_NAME = "QuantEngine Pro"
